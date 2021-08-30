@@ -1,3 +1,7 @@
+/* WARNING: head */
+/* WARNING: body */
+/* WARNING: Title */
+/* WARNING: Title navbar */
 .nav-link {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -8,5 +12,10 @@
 }
 
 .navbar-toggler {
-  margin-right: 0.5rem;
+  margin-right: 1rem;
+}
+
+.company-logo-title-size {
+  height: 3rem;
+  width: 7.5rem;
 }
