@@ -1,6 +1,30 @@
 /* WARNING: head */
 /* WARNING: body */
 /* WARNING: Title */
+.row {
+  margin-right: 0;
+}
+
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+*/
+#title {
+  background-color: #E0FFFF;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
 /* WARNING: Title navbar */
 .nav-link {
   margin-left: 1rem;
