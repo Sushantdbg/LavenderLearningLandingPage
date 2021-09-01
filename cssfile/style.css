@@ -72,3 +72,13 @@ button {
 .iphonemockup{
   padding-top: 4rem;
 }
+/* Download button */
+.download-button-margin{
+  margin: 12% 3% 5% 2.5%;
+}
+
+/* Title image */
+.title-image{
+  width: 45%;
+  transform: rotate(18deg);
+}
