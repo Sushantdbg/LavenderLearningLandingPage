@@ -1,10 +1,28 @@
 /* WARNING: head */
 /* WARNING: body */
+body{
+  font-family: 'Montserrat', sans-serif;
+
+}
 /* WARNING: Title */
+.container-fluid {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%
+}
+/* Navbar */
+.nav-link{
+  font-weight: bolder;
+}
+
+
+/* Button */
+
+
 .row {
   margin-right: 0;
 }
-
 
 /*
 font-family: 'Montserrat', sans-serif;
@@ -15,9 +33,11 @@ font-family: 'Nunito', sans-serif;
 }
 
 h1 {
-  font-family: 'Nunito', sans-serif;
-  font-size: 3rem;
+font-family: 'Noto Sans JP', sans-serif;
+  font-size: 4rem;
+  display: inline-block;
   line-height: 1.5;
+  font-weight: 800;
 }
 
 button {
@@ -27,6 +47,8 @@ button {
 
 /* WARNING: Title navbar */
 .nav-link {
+  color: white;
+  font-size: 1.1rem;
   margin-left: 1rem;
   margin-right: 1rem;
 }
@@ -42,4 +64,11 @@ button {
 .company-logo-title-size {
   height: 3rem;
   width: 7.5rem;
+}
+/* Title */
+.quote{
+  padding-top: 8rem;
+}
+.iphonemockup{
+  padding-top: 4rem;
 }
