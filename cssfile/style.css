@@ -1,9 +1,9 @@
 /* WARNING: head */
 /* WARNING: body */
-body{
+body {
   font-family: 'Montserrat', sans-serif;
-
 }
+
 /* WARNING: Title */
 .container-fluid {
   padding-left: 10%;
@@ -11,15 +11,13 @@ body{
   padding-top: 3%;
   padding-bottom: 3%
 }
+
 /* Navbar */
-.nav-link{
+.nav-link {
   font-weight: bolder;
 }
 
-
 /* Button */
-
-
 .row {
   margin-right: 0;
 }
@@ -33,7 +31,7 @@ font-family: 'Nunito', sans-serif;
 }
 
 h1 {
-font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 4rem;
   display: inline-block;
   line-height: 1.5;
@@ -65,20 +63,52 @@ button {
   height: 3rem;
   width: 7.5rem;
 }
+
 /* Title */
-.quote{
+.quote {
   padding-top: 8rem;
 }
-.iphonemockup{
+
+.iphonemockup {
   padding-top: 4rem;
 }
+
 /* Download button */
-.download-button-margin{
+.download-button-margin {
   margin: 12% 3% 5% 2.5%;
 }
 
 /* Title image */
-.title-image{
+.title-image {
   width: 45%;
   transform: rotate(18deg);
+}
+
+/* Section 2 div */
+.sec2 {
+  background-color: #F8F8F8;
+  padding: 7% 7%;
+}
+
+.sec2heading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.sec2img {
+  height: 7.5rem;
+  weight: 7.5rem;
+  margin-bottom: 1rem;
+}
+
+.sec2items {
+  text-align: center;
+  padding: 5%;
+}
+
+.descsec2 {
+  color: #696969;
+  font-weight: bold;
+  text-align: center;
 }
