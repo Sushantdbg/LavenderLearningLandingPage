@@ -112,3 +112,18 @@ button {
   font-weight: bold;
   text-align: center;
 }
+
+/* Testimonial sec 3 */
+.sec3 {
+  background-color: #E0FFFF;
+}
+
+.sec3desc {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+.testimonial {
+  margin: 7% 10%;
+  text-align: center;
+}
