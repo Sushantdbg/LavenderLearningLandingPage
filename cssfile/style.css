@@ -82,11 +82,12 @@ button {
 .title-image {
   width: 45%;
 }
-.mockup{
+
+.mockup {
   height: 33%;
 }
-/* Is moukup there */
 
+/* Is moukup there */
 /* Section 2 div */
 .sec2 {
   background-color: #F8F8F8;
@@ -116,7 +117,7 @@ button {
   text-align: center;
 }
 
-/* Testimonial sec 3 */
+/* Testimonial section or sec3 */
 .sec3 {
   background-color: #E0FFFF;
 }
