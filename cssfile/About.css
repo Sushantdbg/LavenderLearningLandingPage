@@ -51,7 +51,7 @@ button {
   margin-right: 1rem;
 }
 
- .navbar-brand {
+.navbar-brand {
   margin-left: 1rem;
 }
 
@@ -64,55 +64,82 @@ button {
   width: 7.5rem;
 }
 
-
-
 /* ===========  Section 2 =============*/
-
-
-.section2{
-   /* background-image: url('assets_aboutassets_Introimg7.png') 0 0; */
-   background-color: #E0FFFF;
+.section2 {
+  /* background-image: url('assets_aboutassets_Introimg7.png') 0 0; */
+  background-color: #E0FFFF;
 }
 
-.sec2-container{
- padding-top: 30px;
- padding-left: 50px;
- padding-right: 50px;
+.sec2-container {
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-.sec2-container-box{
- padding: 30px;
+.sec2-container-box {
+  padding: 30px;
 }
 
-.sec2heading1{
- margin-top: 100px;
+.sec2heading1 {
+  margin-top: 100px;
 }
 
-.sec2img{
- padding-left: 8%;
- width: 90%;
+.sec2img {
+  padding-left: 8%;
+  width: 90%;
 }
-
 
 /* ========= Section 3 ===========*/
-
-.section3{
- padding: 100px;
- text-align: center;
- background-color: 	#F0F0F0;
+.section3 {
+  padding: 100px;
+  text-align: center;
+  background-color: #F0F0F0;
 }
 
-
-.mission-card{
- padding: 3%;
+.mission-card {
+  padding: 3%;
 }
 
-
-.card-header{
- background-color: powderblue;
+.card-header {
+  background-color: powderblue;
 }
 
+.card-header-h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
 
-.card-body{
- background-color:	#E8E8E8;
+.card-body {
+  background-color: #E8E8E8;
+}
+
+/* ============== Section 4 =========== */
+.section4 {
+  padding: 100px;
+  text-align: center;
+  background-color: #E0FFFF;
+}
+
+.section4-text {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.section4-text-hr {
+  background-color: #E0FFFF;
+  border-top: 10px dotted #aaaaFF;
+  width: 10%;
+  margin: auto;
+}
+
+.coutn-main {
+  margin: 5%;
+  background-color: #E0FFFF;
+}
+
+.count-body {
+  background-color: #E0FFFF;
+  padding-top: 10%;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
