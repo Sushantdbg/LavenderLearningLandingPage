@@ -2,7 +2,6 @@
 /* WARNING: body */
 body {
   font-family: 'Montserrat', sans-serif;
--webkit-text-size-adjust: auto;
 }
 
 /* WARNING: Title */
@@ -52,79 +51,30 @@ button {
   margin-right: 1rem;
 }
 
-.navbar-brand {
+ .navbar-brand {
   margin-left: 1rem;
 }
 
 .navbar-toggler {
   margin-right: 1rem;
-  -webkit-text-size-adjust: auto;
 }
 
 .company-logo-title-size {
   height: 3rem;
   width: 7.5rem;
-  -webkit-text-size-adjust: auto;
 }
 
-
-.navbar1 {
-  background-color: #0082e6;
-  height: 70px;
-  width: 100%;
-  z-index: 2;
-  position: fixed;
-}
-
-
-  @media screen and (max-width: 1000px) {
-    .checkbtn {
-      display: block;
-    }
-
-.logoimg{
-    width: 100px;
-
-  }
-
-    ul {
-      position: fixed;
-      width: 100%;
-      height: 80px;
-      background: #2c3e50;
-      top: 80px;
-      left: -100%;
-      text-align: center;
-      transition: all .5s;
-    }
-    .navbar1{
-      height: 80px;
-    }
-
-    .navbar1 ul li {
-      display: block;
-      margin: 50px 0;
-      line-height: 30px;
-    }
-
-.navbar1 ul li a {
-      font-size: 20px;
-    }
-
-    .navbar-toggler {
-      -webkit-text-size-adjust: auto;
-    }
-  }
 
 
 /* ===========  Section 2 =============*/
 
-.section2{
-  background-color: powderblue;
+ .section2{
+    /* background-image: url('assets_aboutassets_Introimg7.png') 0 0; */
+    background-color: #E0FFFF;
 }
 
 .sec2-container{
-  padding-top: 150px;
+  padding-top: 30px;
   padding-left: 50px;
   padding-right: 50px;
 }
@@ -133,7 +83,11 @@ button {
   padding: 30px;
 }
 
+.sec2heading1{
+  margin-top: 100px;
+}
+
 .sec2img{
-  padding-left: 7%;
-  width: 110%;
+  padding-left: 8%;
+  width: 90%;
 }
