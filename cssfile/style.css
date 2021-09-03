@@ -81,7 +81,9 @@ button {
 /* Title image */
 .title-image {
   width: 45%;
-  transform: rotate(18deg);
+}
+.mockup{
+  height: 33%;
 }
 
 /* Section 2 div */
