@@ -1,5 +1,6 @@
 /* WARNING: head */
 /* WARNING: body */
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -79,11 +80,17 @@ button {
 }
 
 /* Title image */
-.title-image {
-  width: 45%;
-}
+
+
+/* .title-image {
+  width: 40%;
+  height: auto;
+} */
+
+
 .mockup{
-  height: 33%;
+  width: 50%;
+  margin-left: 10%;
 }
 /* Is moukup there */
 
