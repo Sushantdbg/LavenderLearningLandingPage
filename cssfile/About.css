@@ -112,6 +112,7 @@ padding: 3% 4%;
 }
 
 /* ============== Section 4 =========== */
+
 .section4 {
   padding: 5% 4%;
   text-align: center;
@@ -147,14 +148,26 @@ padding: 3% 4%;
 /* ============== Section 5 =========== */
 
 .section5 {
-  padding:5% 2% 3% 2%;
+  padding:5% 2% 2% 2%;
   text-align: center;
   background-color: #F0F0F0;
 }
 
+.section5-text {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.section5-text-hr {
+  background-color: #E0FFFF;
+  border-top: 10px dotted #aaaaFF;
+  width: 10%;
+  margin: auto;
+}
+
 
 .sec5-container{
-    padding: 8% 4% 3% 4%;;
+    padding: 8% 4% 1% 4%;
 }
 .sec5img{
   padding-top: 10%;
@@ -165,13 +178,88 @@ padding: 3% 4%;
   padding-top: 10%;
 }
 
-
+/* ============== Section 6 =========== */
 .section6 {
-  padding: 1% 2%;
+  padding:1% 2% 2% 2%;
   text-align: center;
   background-color: #F0F0F0;
 }
 
-.sec6-container-box{
-  padding: 4%;
+.section6-text {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+
+.sec6-container{
+    padding: 1% 4% 3% 4%;
+}
+.sec6img{
+  padding-top: 10%;
+  width: 35%;
+}
+
+.sec6heading1{
+  padding-top: 10%;
+}
+
+
+
+
+/* ============== Section 7 =========== */
+
+.section7 {
+  padding: 5% 4%;
+    text-align: center;
+
+  background-color: #E0FFFF;
+}
+
+.section7-text {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.section7-text-hr {
+  background-color: #E0FFFF;
+  border-top: 10px dotted #aaaaFF;
+  width: 10%;
+  margin: auto;
+}
+
+.btn {
+  display: inline-block;
+  position: relative;
+  margin-top: 150px;
+  margin-left: 50%;
+  z-index: 0;
+  background-color: #2F4F4F;
+  color: #E0FFFF;
+  transform: translate(-50%, -50%);
+  display: block;
+  width: 180px;
+  height: 50px;
+  font-family: 'Raleway';
+  font-size: large;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.25),
+    -8px -8px 12px rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+}
+
+.btn:hover {
+  z-index: 0;
+  color: #E0FFFF;
+  box-shadow: 50px 50px 50px #97588d inset,
+    50px 50px 50px #97588d inset;
+}
+
+
+.section7-text-hr2{
+  background-color: #E0FFFF;
+  border-top: 3px solid #ff3333;
+  width: 3%;
+  margin: auto;
 }
