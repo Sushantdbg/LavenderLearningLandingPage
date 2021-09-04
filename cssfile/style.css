@@ -131,9 +131,16 @@ button {
 .sec3desc {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
+  line-height: 1.1;
 }
 
 .testimonial {
-  margin: 7% 10%;
+  padding: 7% 10%;
   text-align: center;
+}
+
+.testimonialpic{
+  height: 12rem;
+  width: 12rem;
+  border-radius: 100%;
 }
