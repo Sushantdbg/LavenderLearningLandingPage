@@ -92,8 +92,8 @@ button {
   width: 50%;
   margin-left: 10%;
 }
-
 /* Is moukup there */
+
 /* Section 2 div */
 .sec2 {
   background-color: #F8F8F8;
@@ -123,7 +123,7 @@ button {
   text-align: center;
 }
 
-/* Testimonial section or sec3 */
+/* Testimonial sec 3 */
 .sec3 {
   background-color: #E0FFFF;
 }
@@ -131,16 +131,9 @@ button {
 .sec3desc {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
-  line-height: 1.1;
 }
 
 .testimonial {
-  padding: 7% 10%;
+  margin: 7% 10%;
   text-align: center;
-}
-
-.testimonialpic{
-  height: 12rem;
-  width: 12rem;
-  border-radius: 100%;
 }

@@ -71,9 +71,7 @@ button {
 }
 
 .sec2-container {
-  padding-top: 30px;
-  padding-left: 50px;
-  padding-right: 50px;
+padding: 3% 4%;
 }
 
 .sec2-container-box {
@@ -81,17 +79,17 @@ button {
 }
 
 .sec2heading1 {
-  margin-top: 100px;
+  margin-top: 3%;
 }
 
 .sec2img {
   padding-left: 8%;
-  width: 90%;
+  width: 100%;
 }
 
 /* ========= Section 3 ===========*/
 .section3 {
-  padding: 100px;
+  padding: 10% 4%;
   text-align: center;
   background-color: #F0F0F0;
 }
@@ -115,7 +113,7 @@ button {
 
 /* ============== Section 4 =========== */
 .section4 {
-  padding: 100px;
+  padding: 5% 4%;
   text-align: center;
   background-color: #E0FFFF;
 }
@@ -142,4 +140,38 @@ button {
   padding-top: 10%;
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+
+
+/* ============== Section 5 =========== */
+
+.section5 {
+  padding:5% 2% 3% 2%;
+  text-align: center;
+  background-color: #F0F0F0;
+}
+
+
+.sec5-container{
+    padding: 8% 4% 3% 4%;;
+}
+.sec5img{
+  padding-top: 10%;
+  width: 35%;
+}
+
+.sec5heading1{
+  padding-top: 10%;
+}
+
+
+.section6 {
+  padding: 1% 2%;
+  text-align: center;
+  background-color: #F0F0F0;
+}
+
+.sec6-container-box{
+  padding: 4%;
 }
