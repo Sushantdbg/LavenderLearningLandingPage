@@ -9,7 +9,7 @@ body {
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 3%;
-  padding-bottom: 3%
+  padding-bottom: 3%;
 }
 
 /* Navbar */
@@ -111,6 +111,25 @@ padding: 3% 4%;
   background-color: #E8E8E8;
 }
 
+/* .mission-card:hover{
+  -webkit-transform: rotatex(30deg);
+        -ms-transform: rotatex(30deg);
+        transform: rotatex(-30deg);
+        padding: 2%;
+
+} */
+
+.card-ani {
+  box-shadow: 1px 1px 5px 0px rgba(82, 82, 82, 0.75);
+  transition: all 150ms ease-in-out;
+}
+.card-ani:hover {
+	top: -3px;
+	left: -3px;
+  box-shadow: 3px 3px 15px 0px rgba(82, 82, 82, 0.85);
+}
+
+
 /* ============== Section 4 =========== */
 
 .section4 {
@@ -142,6 +161,53 @@ padding: 3% 4%;
   font-size: 1.5rem;
   font-weight: bold;
 }
+
+
+
+.count-text::after {
+  font-size: 2.5rem;
+  font-weight: bolder;
+  content: counter(count);
+  animation: counter 2s linear infinite alternate;
+  animation-iteration-count: 1;
+}
+
+@keyframes counter {
+  0% {
+    counter-increment: count 0;
+  }
+  10% {
+    counter-increment: count 100;
+  }
+  20% {
+    counter-increment: count 200;
+  }
+  30% {
+    counter-increment: count 300;
+  }
+  40% {
+    counter-increment: count 400;
+  }
+  50% {
+    counter-increment: count 500;
+  }
+  60% {
+    counter-increment: count 600;
+  }
+  70% {
+    counter-increment: count 700;
+  }
+  80% {
+    counter-increment: count 800;
+  }
+  90% {
+    counter-increment: count 900;
+  }
+  100% {
+    counter-increment: count 10000;
+  }
+}
+
 
 
 
@@ -262,4 +328,16 @@ padding: 3% 4%;
   border-top: 3px solid #ff3333;
   width: 3%;
   margin: auto;
+
 }
+
+
+
+
+
+
+
+
+
+
+/* try */
