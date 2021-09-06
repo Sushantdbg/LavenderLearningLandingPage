@@ -119,8 +119,6 @@ button {
 }
 
 /* Testimonial sec 3 */
-
-
 .sec3 {
   background-color: #E0FFFF;
 }
@@ -131,8 +129,11 @@ button {
 }
 
 .testimonial {
-  padding: 7% 10%;
   text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 10%;
 }
 
 .testimonialpic {
