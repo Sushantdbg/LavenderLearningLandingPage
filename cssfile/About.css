@@ -160,16 +160,17 @@ padding: 3% 4%;
   padding-top: 10%;
   font-size: 1.5rem;
   font-weight: bold;
-}
 
+}
 
 
 .count-text::after {
   font-size: 2.5rem;
   font-weight: bolder;
   content: counter(count);
-  animation: counter 2s linear infinite alternate;
+  animation: counter 2s ease-in-out;
   animation-iteration-count: 1;
+    -webkit-animation-fill-mode: both;
 }
 
 @keyframes counter {
