@@ -5,8 +5,6 @@ html {
   scroll-behavior: smooth;
 }
 
-
-
 /* THE EXPERIMENTAL SECTION : END */
 body {
   font-family: 'Montserrat', sans-serif;
@@ -72,14 +70,11 @@ button {
   width: 7.5rem;
 }
 
-
-
-
-
 /* ============ MAIN-BODY ================ */
-.d-block{
-  height:500px;
+.d-block {
+  height: 500px;
 }
+
 .sec3 {
   margin-left: 10px;
   margin-right: 10px;
@@ -121,7 +116,6 @@ button {
   font-size: 2rem;
   color: white;
   background-color: transparent;
-
 }
 
 .card1 {
@@ -137,19 +131,9 @@ button {
   margin-right: 8px;
 }
 
-
-
-
-
-
-
-
-
-
 /* ============== Service Intro 1 =========== */
-
 .section5 {
-  padding:5% 2% 2% 2%;
+  padding: 5% 2% 2% 2%;
   text-align: center;
   background-color: #E0FFFF;
 }
@@ -166,28 +150,28 @@ button {
   margin: auto;
 }
 
-
-.sec5-container{
-    padding: 8% 4% 1% 4%;
+.sec5-container {
+  padding: 8% 4% 1% 4%;
 }
-.sec5img{
+
+.sec5img {
   padding-top: 10%;
   width: 35%;
 }
 
-.sec5heading1{
+.sec5heading1 {
   padding-top: 10%;
 }
 
 /* ============== Service Intro 2 =========== */
 .section6 {
-  padding:1% 2% 2% 2%;
+  padding: 1% 2% 2% 2%;
   text-align: center;
   background-color: #F0F0F0;
 }
 
-.section6-color{
-  background-color:  #E0FFFF;
+.section6-color {
+  background-color: #E0FFFF;
 }
 
 .section6-text {
@@ -195,15 +179,15 @@ button {
   font-weight: bolder;
 }
 
-
-.sec6-container{
-    padding: 1% 4% 3% 4%;
+.sec6-container {
+  padding: 1% 4% 3% 4%;
 }
-.sec6img{
+
+.sec6img {
   padding-top: 10%;
   width: 35%;
 }
 
-.sec6heading1{
+.sec6heading1 {
   padding-top: 10%;
 }
