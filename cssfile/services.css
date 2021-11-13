@@ -1,0 +1,130 @@
+/* WARNING: head */
+/* WARNING: body */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* WARNING: Title */
+.container-fluid {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+/* Navbar */
+.nav-link {
+  font-weight: bolder;
+}
+
+/* Button */
+.row {
+  margin-right: 0;
+}
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+*/
+#title {
+  background-color: #E0FFFF;
+}
+
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 4rem;
+  display: inline-block;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+/* WARNING: Title navbar */
+.nav-link {
+  color: white;
+  font-size: 1.1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.navbar-toggler {
+  margin-right: 1rem;
+}
+
+.company-logo-title-size {
+  height: 3rem;
+  width: 7.5rem;
+}
+
+
+
+
+
+/* ============ MAIN-BODY ================ */
+.d-block{
+  height:500px;
+}
+.sec3 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.carousel-control-prev-icon0 {
+  width: 50px;
+  height: 40px;
+  outline: 0;
+  background-position: 0 0;
+  font-style: italic;
+  position: absolute;
+  top: 150px;
+  left: 10px;
+}
+
+.carousel-control-next-icon0 {
+  width: 50px;
+  height: 40px;
+  outline: 0;
+  background-position: 0 0;
+  position: absolute;
+  top: 150px;
+  right: 10px;
+}
+
+.card1 {
+  display: block;
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  top: 50px;
+  align-items: center;
+  text-align: center;
+  padding-left: 16%;
+  padding-right: 16%;
+  padding-top: 15px;
+  height: 45px;
+  font-size: 2rem;
+  color: white;
+  background-color: transparent;
+
+}
+
+.card1 {
+  word-spacing: 1px;
+}
+
+.card1 a {
+  text-decoration: none;
+}
+
+.sec3 .row {
+  margin-left: 8px;
+  margin-right: 8px;
+}
