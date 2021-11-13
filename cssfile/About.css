@@ -1,5 +1,15 @@
 /* WARNING: head */
 /* WARNING: body */
+
+/* THE EXPERIMENTAL SECTION : START */
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+/* THE EXPERIMENTAL SECTION : END */
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
