@@ -128,3 +128,74 @@ button {
   margin-left: 8px;
   margin-right: 8px;
 }
+
+
+
+
+
+
+
+
+
+
+/* ============== Service Intro 1 =========== */
+
+.section5 {
+  padding:5% 2% 2% 2%;
+  text-align: center;
+  background-color: #E0FFFF;
+}
+
+.section5-text {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+.section5-text-hr {
+  background-color: #E0FFFF;
+  border-top: 10px dotted #aaaaFF;
+  width: 10%;
+  margin: auto;
+}
+
+
+.sec5-container{
+    padding: 8% 4% 1% 4%;
+}
+.sec5img{
+  padding-top: 10%;
+  width: 35%;
+}
+
+.sec5heading1{
+  padding-top: 10%;
+}
+
+/* ============== Service Intro 2 =========== */
+.section6 {
+  padding:1% 2% 2% 2%;
+  text-align: center;
+  background-color: #F0F0F0;
+}
+
+.section6-color{
+  background-color:  #E0FFFF;
+}
+
+.section6-text {
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+
+
+.sec6-container{
+    padding: 1% 4% 3% 4%;
+}
+.sec6img{
+  padding-top: 10%;
+  width: 35%;
+}
+
+.sec6heading1{
+  padding-top: 10%;
+}
