@@ -9,6 +9,12 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
 }
+  Html, body {
+    max-width: 100%;
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+  }
 
 /* WARNING: Title */
 .container-fluid {
@@ -50,6 +56,12 @@ button {
 }
 
 /* WARNING: Title navbar */
+
+.navbar{
+  z-index: 2;
+  position: fixed;
+  width: 100%;
+}
 .nav-link {
   color: white;
   font-size: 1.1rem;

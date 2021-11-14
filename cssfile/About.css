@@ -23,6 +23,12 @@ body {
 }
 
 /* Navbar */
+
+.navbar{
+  z-index: 2;
+  position: fixed;
+  width: 100%;
+}
 .nav-link {
   font-weight: bolder;
 }
