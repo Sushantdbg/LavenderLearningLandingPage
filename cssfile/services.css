@@ -88,6 +88,7 @@ button {
 }
 
 .sec3 {
+  margin-top: 3rem;
   margin-left: 10px;
   margin-right: 10px;
 }
@@ -118,12 +119,12 @@ button {
   position: absolute;
   left: 20px;
   right: 20px;
-  top: 50px;
+  top: 90px;
   align-items: center;
   text-align: center;
   padding-left: 16%;
   padding-right: 16%;
-  padding-top: 15px;
+  padding-top: 85px;
   height: 45px;
   font-size: 2rem;
   color: white;
@@ -148,6 +149,7 @@ button {
 .ser-title{
   padding: 3% 2% 3% 2%;
   text-align: center;
+  background-color:  #F0F0F0;
 }
 
 .section5-text-hr {
