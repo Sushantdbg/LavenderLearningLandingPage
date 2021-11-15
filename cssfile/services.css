@@ -6,6 +6,30 @@ html {
 }
 
 /* THE EXPERIMENTAL SECTION : END */
+/* GO TO TOP BUTTON START */
+/*Floating Back-To-Top Button*/
+#myBtn {
+  position: fixed;
+  bottom: 1rem;
+  float: right;
+  right: 10%;
+  left: 80%;
+  max-width: 3rem;
+  width: 100%;
+  font-size: 1rem;
+  border-color: rgba(85, 85, 85, 0.2);
+  background-color: rgb(100, 100, 100);
+  padding: .6rem;
+  border-radius: 1.5rem;
+  text-decoration: none;
+}
+
+/*On Hover Color Change*/
+#myBtn:hover {
+  background-color: #7dbbf1;
+}
+
+/* GO TO TOP BUTTON END */
 body {
   font-family: 'Montserrat', sans-serif;
 }
