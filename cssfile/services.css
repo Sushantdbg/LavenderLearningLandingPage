@@ -307,3 +307,9 @@ padding: 2% 4% 2% 4%;
     font-size: 13px;
     margin-bottom: 0
 }
+
+@media screen and (max-width:609px) {
+  .text{
+    margin-top: 2.5rem;
+  }
+}
