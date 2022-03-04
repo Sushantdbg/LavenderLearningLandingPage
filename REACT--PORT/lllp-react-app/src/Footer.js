@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default function App(){
+export default function Footer(){
     return (
         <>
         <div id="anchor2footer" class="footer-dark">

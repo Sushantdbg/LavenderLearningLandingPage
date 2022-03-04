@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default function HomeContent(){
+export default function Home(){
     return (
         <>
         <div class="container-fluid">
@@ -16,7 +16,7 @@ export default function HomeContent(){
             </div>
           </div>
         </div>
-  
+
       <div class="sec2 row">
         <div class="sec2items col-lg-4 ">
           <img class="sec2img" src="assets/allin.png" alt="open for all" />
