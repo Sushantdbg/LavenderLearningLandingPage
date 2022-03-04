@@ -1,11 +1,13 @@
 import React from 'react';
+import './AboutContent.css'
+import photo1 from './assets/aboutassets/Introimg7.png';
+import person4photo from './assets/person4.png';
+import person5photo from './assets/person4.png';
 
 export default function AboutContent(){
     return (
         <>
-
         <div class="section2">
-
           <div class="sec2-container row">
             <div class="sec2-container-box col-lg-6 ">
               <h1 class="sec2heading1">Who we are !</h1>
@@ -20,7 +22,7 @@ export default function AboutContent(){
             </div>
 
             <div class="sec2-container-box col-lg-6">
-              <img class="sec2img" src="assets/aboutassets/Introimg7.png" alt="open for all" />
+              <img class="sec2img-about" src={photo1} alt="open for all" />
               <h3 class="sec2heading"></h3>
               <p class="descsec2"></p>
             </div>
