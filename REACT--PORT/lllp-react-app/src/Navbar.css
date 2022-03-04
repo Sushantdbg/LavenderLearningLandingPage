@@ -1,0 +1,63 @@
+/* Navbar */
+
+.navbar{
+  /* background-color: antiquewhite; */
+  z-index: 2;
+  position: fixed;
+  width: 100%;
+}
+.nav-link {
+  font-weight: bolder;
+}
+
+/* Button */
+.row {
+  margin-right: 0;
+}
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+*/
+#title {
+  background-color: #E0FFFF;
+}
+
+a{
+  text-decoration: none;
+  color: rgba(255,255,255,.55);
+}
+
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 4rem;
+  display: inline-block;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+}
+
+/* WARNING: Title navbar */
+.nav-link {
+  color: white;
+  font-size: 1.1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navbar-brand {
+  margin-left: 1rem;
+}
+
+.navbar-toggler {
+  margin-right: 1rem;
+}
+
+.company-logo-title-size {
+  height: 3rem;
+  width: 7.5rem;
+}

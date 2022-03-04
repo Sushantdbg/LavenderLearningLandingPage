@@ -1,0 +1,100 @@
+/* THE EXPERIMENTAL SECTION : START */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* WARNING: Title */
+.container-fluid {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-bottom: 3%
+}
+
+
+/* Title */
+.title {
+  background-color: #E0FFFF;
+}
+.quote {
+  padding-top: 8rem;
+}
+
+.iphonemockup {
+  padding-top: 4rem;
+}
+
+/* Download button */
+.download-button-margin {
+  margin: 12% 3% 5% 2.5%;
+}
+
+/* Title image */
+/* .title-image {
+  width: 40%;
+  height: auto;
+} */
+.mockup {
+  width: 50%;
+  margin-left: 10%;
+}
+
+/* Is moukup there */
+/* Section 2 div */
+.sec2 {
+  background-color: #F8F8F8;
+  padding: 7% 7%;
+  position: relative;
+}
+
+.sec2heading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.sec2img {
+  height: 7.5rem;
+  weight: 7.5rem;
+  margin-bottom: 1rem;
+}
+
+.sec2items {
+  text-align: center;
+  padding: 5%;
+}
+
+.descsec2 {
+  color: #696969;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Testimonial sec 3 */
+.sec3 {
+  background-color: #E0FFFF;
+}
+
+.sec3desc {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+.testimonial {
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 10%;
+}
+
+.testimonialpic {
+  margin-top: 3rem;
+  height: 12rem;
+  width: 12rem;
+  border-radius: 100%;
+}
